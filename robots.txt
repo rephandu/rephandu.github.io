@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rephandu.github.io/sitemap.html.gz
+Sitemap: https://rephandu.github.io/app/sitemap.html.gz
+Sitemap: https://rephandu.github.io/assets/sitemap.html.gz
+Sitemap: https://rephandu.github.io/css/sitemap.html.gz
+Sitemap: https://rephandu.github.io/includes/sitemap.html.gz
+Sitemap: https://rephandu.github.io/item/sitemap.html.gz
+Sitemap: https://rephandu.github.io/src/sitemap.html.gz
